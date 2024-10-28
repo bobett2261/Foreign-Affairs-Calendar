@@ -11,12 +11,6 @@ X-WR-TIMEZONE:America/New_York
 COMMENT:List of nations is from: Britannica, T. Editors of Encyclopaedia. "list of countries." Encyclopedia Britannica, November 11, 2019. https://www.britannica.com/topic/list-of-countries-1993160.
 COMMENT: Inidvidual citaitons will follow, the list will start in alphabetical order.
 
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Your Organization//Your Product//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-
 BEGIN:VEVENT
 UID:holiday-1@fa-cal.com
 SUMMARY:Afghanistan: Independence Day
