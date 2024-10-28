@@ -10,3 +10,1635 @@ X-WR-TIMEZONE:America/New_York
 
 COMMENT:List of nations is from: Britannica, T. Editors of Encyclopaedia. "list of countries." Encyclopedia Britannica, November 11, 2019. https://www.britannica.com/topic/list-of-countries-1993160.
 COMMENT: Inidvidual citaitons will follow, the list will start in alphabetical order.
+
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//Your Product//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:holiday-1@fa-cal.com
+SUMMARY:Afghanistan: Independence Day
+DTSTART;VALUE=DATE:20240819
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Afghanistan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-2@fa-cal.com
+SUMMARY:Afghanistan: Liberation Day
+DTSTART;VALUE=DATE:20240215
+RRULE:FREQ=YEARLY
+DESCRIPTION:Liberation Day of Afghanistan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-3@fa-cal.com
+SUMMARY:Albania: Independence Day
+DTSTART;VALUE=DATE:20241128
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Albania.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-4@fa-cal.com
+SUMMARY:Algeria: Independence Day
+DTSTART;VALUE=DATE:20240705
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Algeria.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-5@fa-cal.com
+SUMMARY:Angola: Independence Day
+DTSTART;VALUE=DATE:20241111
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Angola.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-6@fa-cal.com
+SUMMARY:Antigua and Barbuda: Independence Day
+DTSTART;VALUE=DATE:20241101
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Antigua and Barbuda.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-7@fa-cal.com
+SUMMARY:Argentina: Independence Day
+DTSTART;VALUE=DATE:20240709
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Argentina.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-8@fa-cal.com
+SUMMARY:Armenia: Republic Day
+DTSTART;VALUE=DATE:20240528
+RRULE:FREQ=YEARLY
+DESCRIPTION:Republic Day of Armenia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-9@fa-cal.com
+SUMMARY:Armenia: Independence Day
+DTSTART;VALUE=DATE:20240921
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Armenia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-10@fa-cal.com
+SUMMARY:Azerbaijan: Independence Day
+DTSTART;VALUE=DATE:20240528
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Azerbaijan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-11@fa-cal.com
+SUMMARY:Azerbaijan: Day of Restoration of Independence
+DTSTART;VALUE=DATE:20241018
+RRULE:FREQ=YEARLY
+DESCRIPTION:Day of Restoration of Independence of Azerbaijan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-12@fa-cal.com
+SUMMARY:The Bahamas: Independence Day
+DTSTART;VALUE=DATE:20240710
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of The Bahamas.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-13@fa-cal.com
+SUMMARY:Bahrain: Independence Day
+DTSTART;VALUE=DATE:20241216
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Bahrain.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-14@fa-cal.com
+SUMMARY:Bangladesh: Independence Day
+DTSTART;VALUE=DATE:20240326
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Bangladesh.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-15@fa-cal.com
+SUMMARY:Bangladesh: Victory Day
+DTSTART;VALUE=DATE:20241216
+RRULE:FREQ=YEARLY
+DESCRIPTION:Victory Day of Bangladesh.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-16@fa-cal.com
+SUMMARY:Barbados: Independence Day
+DTSTART;VALUE=DATE:20241130
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Barbados.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-17@fa-cal.com
+SUMMARY:Belarus: Independence Day
+DTSTART;VALUE=DATE:20240703
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Belarus.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-18@fa-cal.com
+SUMMARY:Belgium: National Day
+DTSTART;VALUE=DATE:20240721
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Belgium.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-19@fa-cal.com
+SUMMARY:Belize: Independence Day
+DTSTART;VALUE=DATE:20240921
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Belize.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-20@fa-cal.com
+SUMMARY:Benin: Independence Day
+DTSTART;VALUE=DATE:20240801
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Benin.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-21@fa-cal.com
+SUMMARY:Bhutan: National Day
+DTSTART;VALUE=DATE:20241217
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Bhutan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-22@fa-cal.com
+SUMMARY:Bolivia: Independence Day
+DTSTART;VALUE=DATE:20240806
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Bolivia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-23@fa-cal.com
+SUMMARY:Bosnia and Herzegovina: Independence Day
+DTSTART;VALUE=DATE:20240301
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Bosnia and Herzegovina.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-24@fa-cal.com
+SUMMARY:Botswana: Independence Day
+DTSTART;VALUE=DATE:20240930
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Botswana.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-25@fa-cal.com
+SUMMARY:Brazil: Independence Day(Dia da Independência)
+DTSTART;VALUE=DATE:20240907
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Brazil.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-26@fa-cal.com
+SUMMARY:Brunei: National Day
+DTSTART;VALUE=DATE:20240223
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Brunei.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-27@fa-cal.com
+SUMMARY:Bulgaria: Liberation Day
+DTSTART;VALUE=DATE:20240303
+RRULE:FREQ=YEARLY
+DESCRIPTION:Liberation Day of Bulgaria.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-28@fa-cal.com
+SUMMARY:Bulgaria: Independence Day
+DTSTART;VALUE=DATE:20240922
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Bulgaria.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-29@fa-cal.com
+SUMMARY:Burkina Faso: Proclamation of Independence Day
+DTSTART;VALUE=DATE:20241211
+RRULE:FREQ=YEARLY
+DESCRIPTION:Proclamation of Independence Day of Burkina Faso.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-30@fa-cal.com
+SUMMARY:Burkina Faso: Independence Day
+DTSTART;VALUE=DATE:20240805
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Burkina Faso.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-31@fa-cal.com
+SUMMARY:Burundi: Independence Day
+DTSTART;VALUE=DATE:20240701
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Burundi.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-32@fa-cal.com
+SUMMARY:Cambodia: Independence Day
+DTSTART;VALUE=DATE:20241109
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Cambodia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-33@fa-cal.com
+SUMMARY:Cameroon: National Day
+DTSTART;VALUE=DATE:20240520
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Cameroon.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-34@fa-cal.com
+SUMMARY:Canada: Canada Day
+DTSTART;VALUE=DATE:20240701
+RRULE:FREQ=YEARLY
+DESCRIPTION:Canada Day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-35@fa-cal.com
+SUMMARY:Cape Verde: Independence Day
+DTSTART;VALUE=DATE:20240705
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Cape Verde.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-36@fa-cal.com
+SUMMARY:Central African Republic: National Day
+DTSTART;VALUE=DATE:20241201
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of the Central African Republic.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-37@fa-cal.com
+SUMMARY:Central African Republic: Independence Day
+DTSTART;VALUE=DATE:20240813
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the Central African Republic.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-38@fa-cal.com
+SUMMARY:Chad: Republic Day
+DTSTART;VALUE=DATE:20241128
+RRULE:FREQ=YEARLY
+DESCRIPTION:Republic Day of Chad.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-39@fa-cal.com
+SUMMARY:Chad: Independence Day
+DTSTART;VALUE=DATE:20240811
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Chad.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-40@fa-cal.com
+SUMMARY:Chile: Independence Day(part of Fiestas Patrias)
+DTSTART;VALUE=DATE:20240918
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Chile.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-41@fa-cal.com
+SUMMARY:China, People's Republic of: National Day
+DTSTART;VALUE=DATE:20241001
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of the People's Republic of China.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-42@fa-cal.com
+SUMMARY:Colombia: Independence Day
+DTSTART;VALUE=DATE:20240720
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Colombia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-43@fa-cal.com
+SUMMARY:Comoros: Independence Day
+DTSTART;VALUE=DATE:20240706
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Comoros.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-44@fa-cal.com
+SUMMARY:Congo, Democratic Republic of the: Independence Day
+DTSTART;VALUE=DATE:20240630
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the Democratic Republic of the Congo.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-45@fa-cal.com
+SUMMARY:Congo, Republic of the: Republic Day
+DTSTART;VALUE=DATE:20241128
+RRULE:FREQ=YEARLY
+DESCRIPTION:Republic Day of the Republic of the Congo.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-46@fa-cal.com
+SUMMARY:Congo, Republic of the: Independence Day
+DTSTART;VALUE=DATE:20240815
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the Republic of the Congo.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-47@fa-cal.com
+SUMMARY:Costa Rica: Independence Day
+DTSTART;VALUE=DATE:20240915
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Costa Rica.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-48@fa-cal.com
+SUMMARY:Croatia: National Day
+DTSTART;VALUE=DATE:20240530
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Croatia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-49@fa-cal.com
+SUMMARY:Cuba: Independence Day
+DTSTART;VALUE=DATE:20241010
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Cuba.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-50@fa-cal.com
+SUMMARY:Cyprus: Independence Day
+DTSTART;VALUE=DATE:20241001
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Cyprus.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-51@fa-cal.com
+SUMMARY:Czech Republic: Independence Day
+DTSTART;VALUE=DATE:20241028
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the Czech Republic.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-52@fa-cal.com
+SUMMARY:Czech Republic: Restoration Day
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+DESCRIPTION:Restoration Day of the Czech Republic.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-53@fa-cal.com
+SUMMARY:Djibouti: Independence Day
+DTSTART;VALUE=DATE:20240627
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Djibouti.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-54@fa-cal.com
+SUMMARY:Dominica: Independence Day
+DTSTART;VALUE=DATE:20241103
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Dominica.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-55@fa-cal.com
+SUMMARY:Dominican Republic: Independence Day
+DTSTART;VALUE=DATE:20241130
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the Dominican Republic.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-56@fa-cal.com
+SUMMARY:Dominican Republic: Independence Day
+DTSTART;VALUE=DATE:20240227
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the Dominican Republic.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-57@fa-cal.com
+SUMMARY:Dominican Republic: Restoration Day
+DTSTART;VALUE=DATE:20240816
+RRULE:FREQ=YEARLY
+DESCRIPTION:Restoration Day of the Dominican Republic.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-58@fa-cal.com
+SUMMARY:East Timor: Proclamation of Independence Day
+DTSTART;VALUE=DATE:20241128
+RRULE:FREQ=YEARLY
+DESCRIPTION:Proclamation of Independence Day of East Timor.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-59@fa-cal.com
+SUMMARY:Ecuador: Independence Day
+DTSTART;VALUE=DATE:20240810
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Ecuador.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-60@fa-cal.com
+SUMMARY:Egypt: Revolution Day
+DTSTART;VALUE=DATE:20240723
+RRULE:FREQ=YEARLY
+DESCRIPTION:Revolution Day of Egypt.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-61@fa-cal.com
+SUMMARY:El Salvador: Independence Day
+DTSTART;VALUE=DATE:20240915
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of El Salvador.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-62@fa-cal.com
+SUMMARY:Equatorial Guinea: Independence Day
+DTSTART;VALUE=DATE:20241012
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Equatorial Guinea.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-63@fa-cal.com
+SUMMARY:Eritrea: Independence Day
+DTSTART;VALUE=DATE:20240524
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Eritrea.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-64@fa-cal.com
+SUMMARY:Estonia: Independence Day
+DTSTART;VALUE=DATE:20240224
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Estonia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-65@fa-cal.com
+SUMMARY:Estonia: Day of Restoration of Independence
+DTSTART;VALUE=DATE:20240820
+RRULE:FREQ=YEARLY
+DESCRIPTION:Day of Restoration of Independence of Estonia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-66@fa-cal.com
+SUMMARY:Eswatini: Independence Day (Somhlolo Day)
+DTSTART;VALUE=DATE:20240906
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Eswatini.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-67@fa-cal.com
+SUMMARY:Fiji: Fiji Day
+DTSTART;VALUE=DATE:20241010
+RRULE:FREQ=YEARLY
+DESCRIPTION:Fiji Day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-68@fa-cal.com
+SUMMARY:Finland: Independence Day
+DTSTART;VALUE=DATE:20241206
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Finland.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-69@fa-cal.com
+SUMMARY:Gabon: Independence Day
+DTSTART;VALUE=DATE:20240816
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Gabon.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-70@fa-cal.com
+SUMMARY:Gambia, The: Independence Day
+DTSTART;VALUE=DATE:20240218
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of The Gambia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-71@fa-cal.com
+SUMMARY:Georgia: Independence Day
+DTSTART;VALUE=DATE:20240526
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Georgia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-72@fa-cal.com
+SUMMARY:Georgia: Independence Restoration Day
+DTSTART;VALUE=DATE:20240409
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Restoration Day of Georgia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-73@fa-cal.com
+SUMMARY:Germany: German Unity Day
+DTSTART;VALUE=DATE:20241003
+RRULE:FREQ=YEARLY
+DESCRIPTION:German Unity Day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-74@fa-cal.com
+SUMMARY:Ghana: Independence Day
+DTSTART;VALUE=DATE:20240306
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Ghana.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-75@fa-cal.com
+SUMMARY:Greece: Independence Day
+DTSTART;VALUE=DATE:20240325
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Greece.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-76@fa-cal.com
+SUMMARY:Grenada: Independence Day
+DTSTART;VALUE=DATE:20240207
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Grenada.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-77@fa-cal.com
+SUMMARY:Guatemala: Independence Day
+DTSTART;VALUE=DATE:20240915
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Guatemala.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-78@fa-cal.com
+SUMMARY:Guinea: Independence Day
+DTSTART;VALUE=DATE:20241002
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Guinea.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-79@fa-cal.com
+SUMMARY:Guinea-Bissau: Independence Day
+DTSTART;VALUE=DATE:20240924
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Guinea-Bissau.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-80@fa-cal.com
+SUMMARY:Guyana: Independence Day
+DTSTART;VALUE=DATE:20240526
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Guyana.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-81@fa-cal.com
+SUMMARY:Haiti: Independence Day
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Haiti.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-82@fa-cal.com
+SUMMARY:Honduras: Independence Day
+DTSTART;VALUE=DATE:20240915
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Honduras.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-83@fa-cal.com
+SUMMARY:Hungary: Day of Hungarian Freedom (A magyar szabadság napja)
+DTSTART;VALUE=DATE:20240629
+RRULE:FREQ=YEARLY;BYDAY=-1SA;BYMONTH=6
+DESCRIPTION:Day of Hungarian Freedom.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-84@fa-cal.com
+SUMMARY:Iceland: National Day
+DTSTART;VALUE=DATE:20240617
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Iceland.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-85@fa-cal.com
+SUMMARY:India: Independence Day(Swatantra Diwas)
+DTSTART;VALUE=DATE:20240815
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of India.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-86@fa-cal.com
+SUMMARY:Indonesia: Independence Day(Hari Kemerdekaan)
+DTSTART;VALUE=DATE:20240817
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Indonesia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-87@fa-cal.com
+SUMMARY:Iran: Iranian Islamic Republic Day
+DTSTART;VALUE=DATE:20240401
+RRULE:FREQ=YEARLY
+DESCRIPTION:Iranian Islamic Republic Day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-88@fa-cal.com
+SUMMARY:Iraq: Independence Day
+DTSTART;VALUE=DATE:20241003
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Iraq.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-89@fa-cal.com
+SUMMARY:Israel: Independence Day(Yom Ha'atzmaut)
+DTSTART;VALUE=DATE:20240422
+RRULE:FREQ=YEARLY;BYDAY=4TH;BYMONTH=4
+DESCRIPTION:Independence Day of Israel.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-90@fa-cal.com
+SUMMARY:Ivory Coast: Independence Day
+DTSTART;VALUE=DATE:20240807
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Ivory Coast.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-91@fa-cal.com
+SUMMARY:Jamaica: Independence Day
+DTSTART;VALUE=DATE:20240806
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Jamaica.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-92@fa-cal.com
+SUMMARY:Japan: National Foundation Day
+DTSTART;VALUE=DATE:20240211
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Foundation Day of Japan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-93@fa-cal.com
+SUMMARY:Jordan: Independence Day
+DTSTART;VALUE=DATE:20240525
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Jordan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-94@fa-cal.com
+SUMMARY:Kazakhstan: Independence Day
+DTSTART;VALUE=DATE:20241216
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Kazakhstan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-95@fa-cal.com
+SUMMARY:Kenya: Jamhuri Day
+DTSTART;VALUE=DATE:20241212
+RRULE:FREQ=YEARLY
+DESCRIPTION:Jamhuri Day of Kenya.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-96@fa-cal.com
+SUMMARY:Kiribati: Independence Day
+DTSTART;VALUE=DATE:20240712
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Kiribati.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-97@fa-cal.com
+SUMMARY:North Korea: National Liberation Day of Korea(Chogukhaebangŭi nal)
+DTSTART;VALUE=DATE:20240815
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Liberation Day of Korea in North Korea.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-98@fa-cal.com
+SUMMARY:South Korea: March 1st Movement(Samiljeol)
+DTSTART;VALUE=DATE:20240301
+RRULE:FREQ=YEARLY
+DESCRIPTION:March 1st Movement of South Korea.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-99@fa-cal.com
+SUMMARY:South Korea: National Liberation Day of Korea(Gwangbokjeol)
+DTSTART;VALUE=DATE:20240815
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Liberation Day of Korea in South Korea.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-100@fa-cal.com
+SUMMARY:Kosovo: Independence Day
+DTSTART;VALUE=DATE:20240217
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Kosovo.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-101@fa-cal.com
+SUMMARY:Kuwait: National Day
+DTSTART;VALUE=DATE:20240225
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Kuwait.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-102@fa-cal.com
+SUMMARY:Kyrgyzstan: Independence Day
+DTSTART;VALUE=DATE:20240831
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Kyrgyzstan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-103@fa-cal.com
+SUMMARY:Latvia: Proclamation Day of the Republic of Latvia
+DTSTART;VALUE=DATE:20241118
+RRULE:FREQ=YEARLY
+DESCRIPTION:Proclamation Day of the Republic of Latvia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-104@fa-cal.com
+SUMMARY:Latvia: Day of Restoration of Independence
+DTSTART;VALUE=DATE:20240504
+RRULE:FREQ=YEARLY
+DESCRIPTION:Day of Restoration of Independence of Latvia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-105@fa-cal.com
+SUMMARY:Lebanon: Independence Day
+DTSTART;VALUE=DATE:20241122
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Lebanon.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-106@fa-cal.com
+SUMMARY:Lesotho: Independence Day
+DTSTART;VALUE=DATE:20241004
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Lesotho.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-107@fa-cal.com
+SUMMARY:Liberia: Independence Day
+DTSTART;VALUE=DATE:20240726
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Liberia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-108@fa-cal.com
+SUMMARY:Libya: Independence Day
+DTSTART;VALUE=DATE:20241224
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Libya.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-109@fa-cal.com
+SUMMARY:Liechtenstein: National Day
+DTSTART;VALUE=DATE:20240815
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Liechtenstein.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-110@fa-cal.com
+SUMMARY:Lithuania: Statehood Restoration Day
+DTSTART;VALUE=DATE:20240216
+RRULE:FREQ=YEARLY
+DESCRIPTION:Statehood Restoration Day of Lithuania.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-111@fa-cal.com
+SUMMARY:Lithuania: Independence Restoration Day
+DTSTART;VALUE=DATE:20240311
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Restoration Day of Lithuania.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-112@fa-cal.com
+SUMMARY:Madagascar: Independence Day
+DTSTART;VALUE=DATE:20240626
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Madagascar.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-113@fa-cal.com
+SUMMARY:Malawi: Independence Day
+DTSTART;VALUE=DATE:20240706
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Malawi.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-114@fa-cal.com
+SUMMARY:Malaysia: Independence Day/National Day(Hari Kemerdekaan/Hari Kebangsaan)
+DTSTART;VALUE=DATE:20240831
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Malaysia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-115@fa-cal.com
+SUMMARY:Malaysia: Malaysia Day (Hari Malaysia)
+DTSTART;VALUE=DATE:20240916
+RRULE:FREQ=YEARLY
+DESCRIPTION:Malaysia Day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-116@fa-cal.com
+SUMMARY:Maldives: Independence Day
+DTSTART;VALUE=DATE:20240726
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Maldives.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-117@fa-cal.com
+SUMMARY:Mali: Independence Day
+DTSTART;VALUE=DATE:20240922
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Mali.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-118@fa-cal.com
+SUMMARY:Malta: Independence Day
+DTSTART;VALUE=DATE:20240921
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Malta.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-119@fa-cal.com
+SUMMARY:Marshall Islands: Constitution Day
+DTSTART;VALUE=DATE:20240501
+RRULE:FREQ=YEARLY
+DESCRIPTION:Constitution Day of the Marshall Islands.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-120@fa-cal.com
+SUMMARY:Mauritania: Independence Day
+DTSTART;VALUE=DATE:20241128
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Mauritania.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-121@fa-cal.com
+SUMMARY:Mauritius: Independence Day
+DTSTART;VALUE=DATE:20240312
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Mauritius.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-122@fa-cal.com
+SUMMARY:Mexico: Independence Day(Día de la Independéncia)
+DTSTART;VALUE=DATE:20240916
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Mexico.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-123@fa-cal.com
+SUMMARY:Mexico: Cry of Dolores(Grito de Dolores)
+DTSTART;VALUE=DATE:20240916
+RRULE:FREQ=YEARLY
+DESCRIPTION:Cry of Dolores of Mexico.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-124@fa-cal.com
+SUMMARY:Micronesia: Independence Day
+DTSTART;VALUE=DATE:20241103
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Micronesia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-125@fa-cal.com
+SUMMARY:Moldova: Independence Day
+DTSTART;VALUE=DATE:20240827
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Moldova.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-126@fa-cal.com
+SUMMARY:Mongolia: Independence Day
+DTSTART;VALUE=DATE:20241229
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Mongolia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-127@fa-cal.com
+SUMMARY:Montenegro: Independence Day
+DTSTART;VALUE=DATE:20240521
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Montenegro.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-128@fa-cal.com
+SUMMARY:Morocco: Proclamation of Independence Day
+DTSTART;VALUE=DATE:20240111
+RRULE:FREQ=YEARLY
+DESCRIPTION:Proclamation of Independence Day of Morocco.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-129@fa-cal.com
+SUMMARY:Morocco: Independence Day
+DTSTART;VALUE=DATE:20241118
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Morocco.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-130@fa-cal.com
+SUMMARY:Mozambique: Independence Day(Dia da Independência Nacional)
+DTSTART;VALUE=DATE:20240625
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Mozambique.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-131@fa-cal.com
+SUMMARY:Myanmar: Independence Day
+DTSTART;VALUE=DATE:20240104
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Myanmar.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-132@fa-cal.com
+SUMMARY:Namibia: Independence Day
+DTSTART;VALUE=DATE:20240321
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Namibia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-133@fa-cal.com
+SUMMARY:Nauru: Independence Day
+DTSTART;VALUE=DATE:20240131
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Nauru.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-134@fa-cal.com
+SUMMARY:Nicaragua: Independence Day
+DTSTART;VALUE=DATE:20240915
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Nicaragua.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-135@fa-cal.com
+SUMMARY:Niger: Independence Day
+DTSTART;VALUE=DATE:20240803
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Niger.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-136@fa-cal.com
+SUMMARY:Nigeria: Independence Day
+DTSTART;VALUE=DATE:20241001
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Nigeria.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-137@fa-cal.com
+SUMMARY:North Macedonia: Republic Day
+DTSTART;VALUE=DATE:20240802
+RRULE:FREQ=YEARLY
+DESCRIPTION:Republic Day of North Macedonia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-138@fa-cal.com
+SUMMARY:North Macedonia: Independence Day(Den na nezavisnosta)
+DTSTART;VALUE=DATE:20240908
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of North Macedonia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-139@fa-cal.com
+SUMMARY:Norway: Constitution Day
+DTSTART;VALUE=DATE:20240517
+RRULE:FREQ=YEARLY
+DESCRIPTION:Constitution Day of Norway.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-140@fa-cal.com
+SUMMARY:Norway: Independence Day
+DTSTART;VALUE=DATE:20240607
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Norway.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-141@fa-cal.com
+SUMMARY:Oman: National Day
+DTSTART;VALUE=DATE:20241118
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Oman.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-142@fa-cal.com
+SUMMARY:Pakistan: Independence Day(Youm-e-Azadi)
+DTSTART;VALUE=DATE:20240814
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Pakistan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-143@fa-cal.com
+SUMMARY:Palau: Independence Day
+DTSTART;VALUE=DATE:20241001
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Palau.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-144@fa-cal.com
+SUMMARY:Palestine: Independence Day
+DTSTART;VALUE=DATE:20241115
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Palestine.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-145@fa-cal.com
+SUMMARY:Panama: Independence Day
+DTSTART;VALUE=DATE:20241128
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Panama.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-146@fa-cal.com
+SUMMARY:Panama: Separation Day
+DTSTART;VALUE=DATE:20241103
+RRULE:FREQ=YEARLY
+DESCRIPTION:Separation Day of Panama.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-147@fa-cal.com
+SUMMARY:Papua New Guinea: Independence Day
+DTSTART;VALUE=DATE:20240916
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Papua New Guinea.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-148@fa-cal.com
+SUMMARY:Paraguay: Independence Day
+DTSTART;VALUE=DATE:20240514
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Paraguay.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-149@fa-cal.com
+SUMMARY:Peru: Independence Day
+DTSTART;VALUE=DATE:20240728
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Peru.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-150@fa-cal.com
+SUMMARY:Philippines: Independence Day(Araw ng Kalayaan or Araw ng Kasarinlan)
+DTSTART;VALUE=DATE:20240612
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the Philippines.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-151@fa-cal.com
+SUMMARY:Philippines: Republic Day
+DTSTART;VALUE=DATE:20240704
+RRULE:FREQ=YEARLY
+DESCRIPTION:Republic Day of the Philippines.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-152@fa-cal.com
+SUMMARY:Poland: Independence Day(Święto Niepodległości)
+DTSTART;VALUE=DATE:20241111
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Poland.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-153@fa-cal.com
+SUMMARY:Portugal: Restoration of Independence Day
+DTSTART;VALUE=DATE:20241201
+RRULE:FREQ=YEARLY
+DESCRIPTION:Restoration of Independence Day of Portugal.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-154@fa-cal.com
+SUMMARY:Qatar: National Day
+DTSTART;VALUE=DATE:20241218
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Qatar.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-155@fa-cal.com
+SUMMARY:Romania: National Independence Day(Ziua Independenței Naționale)
+DTSTART;VALUE=DATE:20240510
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Independence Day of Romania.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-156@fa-cal.com
+SUMMARY:Romania: Great Union Day(Ziua Unirii Mare)
+DTSTART;VALUE=DATE:20241201
+RRULE:FREQ=YEARLY
+DESCRIPTION:Great Union Day of Romania.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-157@fa-cal.com
+SUMMARY:Rwanda: Independence Day
+DTSTART;VALUE=DATE:20240701
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Rwanda.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-158@fa-cal.com
+SUMMARY:Saint Kitts and Nevis: Independence Day
+DTSTART;VALUE=DATE:20240919
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Saint Kitts and Nevis.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-159@fa-cal.com
+SUMMARY:Saint Lucia: Independence Day
+DTSTART;VALUE=DATE:20240222
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Saint Lucia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-160@fa-cal.com
+SUMMARY:Saint Vincent and the Grenadines: Independence Day
+DTSTART;VALUE=DATE:20241027
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Saint Vincent and the Grenadines.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-161@fa-cal.com
+SUMMARY:Samoa: Independence Day
+DTSTART;VALUE=DATE:20240601
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Samoa.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-162@fa-cal.com
+SUMMARY:São Tomé and Príncipe: Independence Day
+DTSTART;VALUE=DATE:20240712
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of São Tomé and Príncipe.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-163@fa-cal.com
+SUMMARY:Senegal: Independence Day
+DTSTART;VALUE=DATE:20240404
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Senegal.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-164@fa-cal.com
+SUMMARY:Serbia: Statehood Day
+DTSTART;VALUE=DATE:20240215
+RRULE:FREQ=YEARLY
+DESCRIPTION:Statehood Day of Serbia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-165@fa-cal.com
+SUMMARY:Seychelles: Independence Day
+DTSTART;VALUE=DATE:20240629
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Seychelles.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-166@fa-cal.com
+SUMMARY:Sierra Leone: Independence Day
+DTSTART;VALUE=DATE:20240427
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Sierra Leone.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-167@fa-cal.com
+SUMMARY:Singapore: National Day
+DTSTART;VALUE=DATE:20240809
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Singapore.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-168@fa-cal.com
+SUMMARY:Slovakia: Independence Day
+DTSTART;VALUE=DATE:20241028
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Slovakia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-169@fa-cal.com
+SUMMARY:Slovakia: Independence Day
+DTSTART;VALUE=DATE:20240717
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Slovakia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-170@fa-cal.com
+SUMMARY:Slovakia: Restoration Day
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+DESCRIPTION:Restoration Day of Slovakia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-171@fa-cal.com
+SUMMARY:Slovenia: Statehood Day
+DTSTART;VALUE=DATE:20240625
+RRULE:FREQ=YEARLY
+DESCRIPTION:Statehood Day of Slovenia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-172@fa-cal.com
+SUMMARY:Slovenia: Independence and Unity Day
+DTSTART;VALUE=DATE:20241226
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence and Unity Day of Slovenia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-173@fa-cal.com
+SUMMARY:Solomon Islands: Independence Day
+DTSTART;VALUE=DATE:20240707
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Solomon Islands.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-174@fa-cal.com
+SUMMARY:Somalia: Independence Day
+DTSTART;VALUE=DATE:20240626
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Somalia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-175@fa-cal.com
+SUMMARY:Somaliland: Independence Day
+DTSTART;VALUE=DATE:20240626
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Somaliland.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-176@fa-cal.com
+SUMMARY:Somaliland: Independence Day
+DTSTART;VALUE=DATE:20240518
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Somaliland.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-177@fa-cal.com
+SUMMARY:Sri Lanka: Independence Day
+DTSTART;VALUE=DATE:20240204
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Sri Lanka.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-178@fa-cal.com
+SUMMARY:Sudan: Independence Day
+DTSTART;VALUE=DATE:20250101
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Sudan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-179@fa-cal.com
+SUMMARY:South Sudan: Independence Day
+DTSTART;VALUE=DATE:20240709
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of South Sudan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-180@fa-cal.com
+SUMMARY:Suriname: Independence Day
+DTSTART;VALUE=DATE:20241125
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Suriname.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-181@fa-cal.com
+SUMMARY:Switzerland: Swiss National Day
+DTSTART;VALUE=DATE:20240801
+RRULE:FREQ=YEARLY
+DESCRIPTION:Swiss National Day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-182@fa-cal.com
+SUMMARY:Syria: Evacuation Day
+DTSTART;VALUE=DATE:20240417
+RRULE:FREQ=YEARLY
+DESCRIPTION:Evacuation Day of Syria.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-183@fa-cal.com
+SUMMARY:Tajikistan: Independence Day
+DTSTART;VALUE=DATE:20240909
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Tajikistan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-184@fa-cal.com
+SUMMARY:Tanzania: Independence Day
+DTSTART;VALUE=DATE:20241209
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Tanzania.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-185@fa-cal.com
+SUMMARY:Togo: Independence Day
+DTSTART;VALUE=DATE:20240427
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Togo.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-186@fa-cal.com
+SUMMARY:Tonga: Emancipation Day
+DTSTART;VALUE=DATE:20240604
+RRULE:FREQ=YEARLY
+DESCRIPTION:Emancipation Day of Tonga.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-187@fa-cal.com
+SUMMARY:Trinidad and Tobago: Independence Day
+DTSTART;VALUE=DATE:20240831
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Trinidad and Tobago.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-188@fa-cal.com
+SUMMARY:Tunisia: Independence Day
+DTSTART;VALUE=DATE:20240320
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Tunisia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-189@fa-cal.com
+SUMMARY:Turkmenistan: Independence Day
+DTSTART;VALUE=DATE:20240927
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Turkmenistan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-190@fa-cal.com
+SUMMARY:Tuvalu: Independence Day
+DTSTART;VALUE=DATE:20241001
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Tuvalu.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-191@fa-cal.com
+SUMMARY:Uganda: Independence Day
+DTSTART;VALUE=DATE:20241009
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Uganda.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-192@fa-cal.com
+SUMMARY:Ukraine: Independence Day
+DTSTART;VALUE=DATE:20240824
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Ukraine.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-193@fa-cal.com
+SUMMARY:Ukraine: Day of Unity
+DTSTART;VALUE=DATE:20240122
+RRULE:FREQ=YEARLY
+DESCRIPTION:Day of Unity of Ukraine.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-194@fa-cal.com
+SUMMARY:United Arab Emirates: National Day
+DTSTART;VALUE=DATE:20241202
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of the United Arab Emirates.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-195@fa-cal.com
+SUMMARY:United States: Independence Day or Fourth of July
+DTSTART;VALUE=DATE:20240704
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of the United States.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-196@fa-cal.com
+SUMMARY:Uruguay: Independence Day
+DTSTART;VALUE=DATE:20240825
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Uruguay.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-197@fa-cal.com
+SUMMARY:Uzbekistan: Independence Day
+DTSTART;VALUE=DATE:20240901
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Uzbekistan.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-198@fa-cal.com
+SUMMARY:Vanuatu: Independence Day
+DTSTART;VALUE=DATE:20240730
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Vanuatu.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-199@fa-cal.com
+SUMMARY:Venezuela: Independence Day
+DTSTART;VALUE=DATE:20240705
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Venezuela.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-200@fa-cal.com
+SUMMARY:Vietnam: National Day
+DTSTART;VALUE=DATE:20240902
+RRULE:FREQ=YEARLY
+DESCRIPTION:National Day of Vietnam.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-201@fa-cal.com
+SUMMARY:Yemen: Independence Day
+DTSTART;VALUE=DATE:20241130
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Yemen.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-202@fa-cal.com
+SUMMARY:Zambia: Independence Day
+DTSTART;VALUE=DATE:20241024
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Zambia.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:holiday-203@fa-cal.com
+SUMMARY:Zimbabwe: Independence Day
+DTSTART;VALUE=DATE:20240418
+RRULE:FREQ=YEARLY
+DESCRIPTION:Independence Day of Zimbabwe.
+END:VEVENT
+
+END:VCALENDAR
