@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Congressional Foreign Affairs Calendar
+X-WR-CALDESC:This calendar is intended to provide up-to-date information regarding world events, important dates, congressional hearings, and other events that might be useful to a staff member. 
+COMMENT:Updated by Spencer Collins on October 28,2024
+
+COMMENT:The following are national independence holidays in alphabetical order. Source is from Wikipedia, will need to finalize a more credible source at some point. 
+
+BEGIN:VEVENT
+SUMMARY:Afghanistan - Independence Day
+DTSTART;VALUE=DATE:19190919
+DESCRIPTION:BLAH BLAH
+RRULE:FREQ=YEARLY
+END:VEVENT
+
+END:VCALENDAR
